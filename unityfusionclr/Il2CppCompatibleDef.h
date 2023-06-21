@@ -22,7 +22,7 @@
 #define PLATFORM_ARCH_64 0
 #endif
 #elif !defined(UNITYFUSIONCLR_UNITY_VERSION)
-#error "please run 'UnityFusionCLR/Generate/All' before building"
+#error "please run 'UnityFusion/Generate/All' before building"
 #else
 #error "unsupported unity version"
 #endif
